@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		//comentario prueba de pipeline
+		// prueba de pipeline
 	}
 
 }
